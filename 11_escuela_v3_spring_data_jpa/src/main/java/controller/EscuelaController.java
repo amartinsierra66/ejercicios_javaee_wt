@@ -13,6 +13,7 @@ import model.Alumno;
 import service.AlumnosService;
 import service.CursosService;
 //comentario
+//comentario desde el otro equipo
 @Controller
 public class EscuelaController {
 	@Autowired
