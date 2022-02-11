@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import model.Alumno;
 import service.AlumnosService;
 import service.CursosService;
-
+//comentario
 @Controller
 public class EscuelaController {
 	@Autowired
